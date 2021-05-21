@@ -25,4 +25,5 @@ cricketer does that person look like
     It then puts a green rectangle around the detected faces and classifies the image inside the rectangle
     The result is shown along with the rectangle at real time
     
-
+dataset were randomly splited into train and test sets
+Accuracy achieved is above 55 percent.
